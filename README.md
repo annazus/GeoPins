@@ -20,6 +20,6 @@
 
 - Back-end
 
-* Building a GraphQL server with Apollo using Queries, Mutations, Subscriptions, Typedefs, resolvers, and integrating authentication with OAuth2.
-* MongoDB Atlas
-* Using Mongoose to create models, CRUD operations and population
+  * Building a GraphQL server with Apollo using Queries, Mutations, Subscriptions, Typedefs, resolvers, and integrating authentication with OAuth2.
+  * MongoDB Atlas
+  * Using Mongoose to create models, CRUD operations and population

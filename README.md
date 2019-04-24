@@ -8,9 +8,9 @@
 
   - React with the latest React feature - Hooks
 
-  * Built in useContext and useReducer hooks for Redux like global state management. useEffect hooks to replace events
-  * Using a hook useMediaQuery from a 3rd party for responsive design.
-  * Building your own custom hook
+    * Built in useContext and useReducer hooks for Redux like global state management. useEffect hooks to replace events
+    * Using a hook useMediaQuery from a 3rd party for responsive design.
+    * Building your own custom hook
 
   - Styling with Material-UI, and CSS-in-JS (It is fabulous!)
   - Social login with Google OAuth2

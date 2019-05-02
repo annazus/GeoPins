@@ -1,6 +1,6 @@
 # GeoPins
 
-~~Pin~~ your favorite places on a map with images and descriptions. Share your pins with other users in real-time. Interact with other user's pins by adding comments.
+Pin your favorite places on a map with images and descriptions. Share your pins with other users in real-time. Interact with other user's pins by adding comments.
 
 ## Technical Features
 
